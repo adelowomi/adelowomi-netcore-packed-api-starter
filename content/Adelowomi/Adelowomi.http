@@ -1,0 +1,6 @@
+@Adelowomi_HostAddress = http://localhost:5208
+
+GET {{Adelowomi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

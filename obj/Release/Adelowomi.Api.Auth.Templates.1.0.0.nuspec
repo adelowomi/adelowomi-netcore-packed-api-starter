@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Adelowomi.Api.Auth.Templates</id>
+    <version>1.0.0</version>
+    <title>adelowomi-lean-api-starter</title>
+    <authors>Adelowomi</authors>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/adelowomi/adelowomi-netcore-packed-api-starter</projectUrl>
+    <description>A starter project for .net 9 with all essentials built in.</description>
+    <tags>WEB, WEB API, API</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/.template.config/template.json" target="content/content/Adelowomi/.template.config/template.json" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Adelowomi.csproj" target="content/content/Adelowomi/Adelowomi.csproj" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Adelowomi.http" target="content/content/Adelowomi/Adelowomi.http" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/appsettings.Development.json" target="content/content/Adelowomi/appsettings.Development.json" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/appsettings.json" target="content/content/Adelowomi/appsettings.json" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Extensions/AppServiceExtensions.cs" target="content/content/Adelowomi/Extensions/AppServiceExtensions.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Extensions/ConfigurationExtensions.cs" target="content/content/Adelowomi/Extensions/ConfigurationExtensions.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Extensions/EntityFrameworkExtensions.cs" target="content/content/Adelowomi/Extensions/EntityFrameworkExtensions.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Extensions/ExceptionHandlerExtensions.cs" target="content/content/Adelowomi/Extensions/ExceptionHandlerExtensions.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Extensions/IdentityExtensions.cs" target="content/content/Adelowomi/Extensions/IdentityExtensions.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Extensions/PaginationExtensions.cs" target="content/content/Adelowomi/Extensions/PaginationExtensions.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Extensions/StandardResponseInterceptorExtensions.cs" target="content/content/Adelowomi/Extensions/StandardResponseInterceptorExtensions.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Extensions/StandardResponseMiddlewareExtensions.cs" target="content/content/Adelowomi/Extensions/StandardResponseMiddlewareExtensions.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Migrations/20241207013850_InitialMigration.cs" target="content/content/Adelowomi/Migrations/20241207013850_InitialMigration.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Migrations/20241207013850_InitialMigration.Designer.cs" target="content/content/Adelowomi/Migrations/20241207013850_InitialMigration.Designer.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Migrations/ContextModelSnapshot.cs" target="content/content/Adelowomi/Migrations/ContextModelSnapshot.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/AppModels/Attendee.cs" target="content/content/Adelowomi/Models/AppModels/Attendee.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/AppModels/BaseEntity.cs" target="content/content/Adelowomi/Models/AppModels/BaseEntity.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/AppModels/Company.cs" target="content/content/Adelowomi/Models/AppModels/Company.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/AppModels/Event.cs" target="content/content/Adelowomi/Models/AppModels/Event.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/AppModels/EventRegistration.cs" target="content/content/Adelowomi/Models/AppModels/EventRegistration.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/AppModels/EventTicket.cs" target="content/content/Adelowomi/Models/AppModels/EventTicket.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/AppModels/MusicPlatforLink.cs" target="content/content/Adelowomi/Models/AppModels/MusicPlatforLink.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/AppModels/MusicRelease.cs" target="content/content/Adelowomi/Models/AppModels/MusicRelease.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/AppModels/PaymentStatus.cs" target="content/content/Adelowomi/Models/AppModels/PaymentStatus.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/AppModels/TechnologyUsed.cs" target="content/content/Adelowomi/Models/AppModels/TechnologyUsed.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/ConfigModels/AppConfig.cs" target="content/content/Adelowomi/Models/ConfigModels/AppConfig.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/Context/Context.cs" target="content/content/Adelowomi/Models/Context/Context.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/IdentityModels/Role.cs" target="content/content/Adelowomi/Models/IdentityModels/Role.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/IdentityModels/RoleClaim.cs" target="content/content/Adelowomi/Models/IdentityModels/RoleClaim.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/IdentityModels/User.cs" target="content/content/Adelowomi/Models/IdentityModels/User.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/IdentityModels/UserClaim.cs" target="content/content/Adelowomi/Models/IdentityModels/UserClaim.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/IdentityModels/UserLogin.cs" target="content/content/Adelowomi/Models/IdentityModels/UserLogin.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/IdentityModels/UserRole.cs" target="content/content/Adelowomi/Models/IdentityModels/UserRole.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/IdentityModels/UserToken.cs" target="content/content/Adelowomi/Models/IdentityModels/UserToken.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/ProjectHighlight.cs" target="content/content/Adelowomi/Models/ProjectHighlight.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/UtilityModels/PagedCollection.cs" target="content/content/Adelowomi/Models/UtilityModels/PagedCollection.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/UtilityModels/PaginationLinks.cs" target="content/content/Adelowomi/Models/UtilityModels/PaginationLinks.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/UtilityModels/PaginationMetadata.cs" target="content/content/Adelowomi/Models/UtilityModels/PaginationMetadata.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/UtilityModels/PagingOptions.cs" target="content/content/Adelowomi/Models/UtilityModels/PagingOptions.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Models/UtilityModels/StandardResponse.cs" target="content/content/Adelowomi/Models/UtilityModels/StandardResponse.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Program.cs" target="content/content/Adelowomi/Program.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Properties/launchSettings.json" target="content/content/Adelowomi/Properties/launchSettings.json" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Repositories/Abstractions/IRepository.cs" target="content/content/Adelowomi/Repositories/Abstractions/IRepository.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Repositories/Repository.cs" target="content/content/Adelowomi/Repositories/Repository.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Services/IdentityEmailSender.cs" target="content/content/Adelowomi/Services/IdentityEmailSender.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Utilities/CustomExceptions.cs" target="content/content/Adelowomi/Utilities/CustomExceptions.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Utilities/GlobalExceptionHandlerMiddleware.cs" target="content/content/Adelowomi/Utilities/GlobalExceptionHandlerMiddleware.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Utilities/RepositoryFactory.cs" target="content/content/Adelowomi/Utilities/RepositoryFactory.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Utilities/StandardResponseInterceptor.cs" target="content/content/Adelowomi/Utilities/StandardResponseInterceptor.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/content/Adelowomi/Utilities/StandardResponseMiddleware.cs" target="content/content/Adelowomi/Utilities/StandardResponseMiddleware.cs" />
+    <file src="/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/README.md" target="README.md" />
+  </files>
+</package>

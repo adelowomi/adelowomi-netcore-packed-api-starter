@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lcBml2WGSnk=",
+  "success": true,
+  "projectFilePath": "/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/Adelowomi.Api.Auth.Templates.csproj",
+  "expectedPackageFiles": [
+    "/Users/harmoniccoder/.nuget/packages/microsoft.templateengine.tasks/7.0.120/microsoft.templateengine.tasks.7.0.120.nupkg.sha512"
+  ],
+  "logs": []
+}

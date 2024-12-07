@@ -1,0 +1,11 @@
+/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/bin/Release/net9.0/Adelowomi.Api.Auth.Templates.deps.json
+/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/bin/Release/net9.0/Adelowomi.Api.Auth.Templates.dll
+/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/bin/Release/net9.0/Adelowomi.Api.Auth.Templates.pdb
+/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/obj/Release/net9.0/Adelowomi.Api.Auth.Templates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/obj/Release/net9.0/Adelowomi.Api.Auth.Templates.AssemblyInfoInputs.cache
+/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/obj/Release/net9.0/Adelowomi.Api.Auth.Templates.AssemblyInfo.cs
+/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/obj/Release/net9.0/Adelowomi.Api.Auth.Templates.csproj.CoreCompileInputs.cache
+/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/obj/Release/net9.0/Adelowomi.Api.Auth.Templates.dll
+/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/obj/Release/net9.0/refint/Adelowomi.Api.Auth.Templates.dll
+/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/obj/Release/net9.0/Adelowomi.Api.Auth.Templates.pdb
+/Users/harmoniccoder/Documents/Backend Projects/dotnet-api-templaate/obj/Release/net9.0/ref/Adelowomi.Api.Auth.Templates.dll

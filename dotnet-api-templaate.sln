@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adelowomi.Api.Auth.Templates", "Adelowomi.Api.Auth.Templates.csproj", "{B860DDE3-D3DF-6A5B-790A-1A2E8F613C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B860DDE3-D3DF-6A5B-790A-1A2E8F613C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B860DDE3-D3DF-6A5B-790A-1A2E8F613C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B860DDE3-D3DF-6A5B-790A-1A2E8F613C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B860DDE3-D3DF-6A5B-790A-1A2E8F613C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE0EFCE7-F1B8-4267-9CA3-3DED4D653AD8}
+	EndGlobalSection
+EndGlobal
